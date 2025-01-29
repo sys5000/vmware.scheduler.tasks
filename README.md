@@ -1,6 +1,11 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
 # Ansible Collection: vmware.scheduler.tasks
-<span style="color:red">**Note not yet ready for use.**</span>
+<r>**Note not yet ready for use.**</r>
 
 This repo hosts the `vmware.scheduler.tasks` Ansible Collection.
 
